@@ -109,7 +109,13 @@ figcaption {
 
 
 
-
+.clearfix:after{
+  content: ".";
+  dispay: block;
+  
+  
+  
+}
 
 
 
