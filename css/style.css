@@ -111,7 +111,7 @@ figcaption {
 
 .clearfix:after{
   content: ".";
-  dispay: block;
+  display: block;
   clear: both;
   visibility: hidden;
   height: 0;
